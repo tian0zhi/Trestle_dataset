@@ -22,3 +22,21 @@ Symbol rate:
 560sps
 
 You can use "signal_preproc.m" to preprocess the dataset!
+
+## Citation
+
+If you publish work that uses dataset, please cite paper as follows:
+
+```bibtex
+@ARTICLE{9694507,
+  author={Zhang, Weilong and Yang, Xinghai and Leng, Changli and Wang, Jingjing and Mao, Shiwen},
+  journal={IEEE Transactions on Wireless Communications}, 
+  title={Modulation Recognition of Underwater Acoustic Signals Using Deep Hybrid Neural Networks}, 
+  year={2022},
+  volume={21},
+  number={8},
+  pages={5977-5988},
+  keywords={Feature extraction;Modulation;Underwater acoustics;Convolutional neural networks;Convolution;Wireless communication;Recurrent neural networks;Underwater acoustic signal;modulation recognition;deep hybrid neural network;R&CNN},
+  doi={10.1109/TWC.2022.3144608}}
+
+```
